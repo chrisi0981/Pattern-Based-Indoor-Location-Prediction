@@ -1,0 +1,99 @@
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+    Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+    for l in range(lower,upper):
+TypeError: range() integer end argument expected, got float.
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+    Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+    for l in range(lower,upper):
+TypeError: range() integer end argument expected, got float.
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+    Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+    for l in range(lower,upper):
+TypeError: range() integer end argument expected, got float.
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+    Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+    for l in range(lower,upper):
+TypeError: range() integer end argument expected, got float.
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+    Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+    for l in range(lower,upper):
+TypeError: range() integer end argument expected, got float.
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+    Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+    for l in range(lower,upper):
+TypeError: range() integer end argument expected, got float.
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+Starting pp with 8 workers
+Traceback (most recent call last):
+  File "Pattern_Extraction.py", line 2766, in <module>
+        Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+Extract_Conditional_Patterns(user,max_interval_length,processor,max_processor)
+  File "Pattern_Extraction.py", line 1969, in Extract_Conditional_Patterns
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+    prob_result = Calculate_Probability(pattern_combinations,pattern_combinations_temporal_intervals,pattern_combinations_temporal_specificity,pattern_combinations_count,pattern_length,user,lower,upper)
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+  File "Pattern_Extraction.py", line 1983, in Calculate_Probability
+        for l in range(lower,upper):
+for l in range(lower,upper):
+TypeErrorTypeError: : range() integer end argument expected, got float.range() integer start argument expected, got float.
+
+Starting pp with 8 workers
+13321
+174.651220083
+Starting pp with 8 workers
+15660
+206.942687035
+Starting pp with 8 workers
+19201
+237.369421005
+Starting pp with 8 workers
+15982
+205.512720823
+Starting pp with 8 workers
+19118
+202.894829035
+Starting pp with 8 workers
+20224
+209.368126869
+Starting pp with 8 workers
+20355
+200.267455816
+Starting pp with 8 workers
+23469
+233.565407991
+Starting pp with 8 workers
+147330
+327.604499817
